@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Marcin Czerkas
 
-I’m a **data enthusiast** passionate about turning raw information into clear insights and practical solutions.
-I enjoy exploring datasets, building dashboards, automating processes, and applying analytical thinking to real business challenges.
+I’m a **data professional** focused on turning raw information into clear insights and practical business solutions. I work hands-on with data — from cleaning and modeling to visualization and automation — always with a strong emphasis on real-world decision-making.
 
-💼 Currently, I’m transitioning my career toward **Data Analytics / Business Intelligence / Business Analytics**, combining my background in the business (risk department) and project management with new technical skills in data.
+💼 I currently work as a **Quantitative Expert** in the **Risk Department** of a car leasing company, where I analyze data to identify early warning signals, validate analytical models, and support actions that help protect the business from financial risk.
 
-I work as a **Quantitative Expert** in the Risk Department at a car leasing company. My role is all about protecting the business — I analyze data to spot early warning signs and turn insights into actions that prevent losses.
+My background combines **business**, **risk**, and **analytics**, supported by strong technical skills in Power BI, SQL, Python, and Excel, and experience working with stakeholders across different functions.
 
-I speak fluently in **5 languages**: Polish, English, German, Italian and Spanish.
+I am fluent in **five languages**: Polish, English, German, Italian, and Spanish.
 
 # 🧠 What I work with
 
 * **Languages & Tools:** SQL (PostgreSQL, Oracle), Python, Excel, Power BI, Power Query M, DAX
-* **Data Workflow:** cleaning, transformation, visualization, building analytical data models
-* **Areas of interest:** automation, business analysis, data analysis
+* **Data Workflow:** cleaning, transformation, data modeling, visualization, dashboard development and maintenance
+* **Focus Areas:** reporting and process automation, business analysis, decision-support analytics
 
 
 # 📊 Featured Projects
@@ -24,11 +23,11 @@ I speak fluently in **5 languages**: Polish, English, German, Italian and Spanis
   <img src="Assets/Fleet%20Monitoring/Dashboard%20demo.gif" alt="Marcin Czerkas" width="250"/>
 </p>
 
-**Description:** Professional data & BI project focusing on car fleet performance
+**Description:** End-to-end BI solution focused on monitoring car fleet performance and risk exposure in a leasing environment
 
 **Tech Stack:** SQL (Oracle), Power BI, Power Query M, DAX, Python
 
-**Skills:** data wrangling, cleaning and visualization, business analysis
+**Skills:** data wrangling and transformation, data visualization, business and risk analysis
 
 ---
 
@@ -38,11 +37,11 @@ I speak fluently in **5 languages**: Polish, English, German, Italian and Spanis
   <img src="Assets/Real%20Estate/Real%20Estate%20Dashboard.jpg" alt="Marcin Czerkas" width="250"/>
 </p>
 
-**Description:** Data analysis project dedicated to a tool I built helping users look for and compare real estate offers in Warsaw and neighbouring counties
+**Description:** Data analytics project built to support comparison and analysis of real estate offers in Warsaw and neighbouring counties
 
 **Tech Stack:** Power BI, VBA, Power Query M, DAX, Excel
 
-**Skills:** web scraping, data cleaning and visualization
+**Skills:** web scraping, data preparation, exploratory analysis, visualization
 
 ---
 
@@ -52,11 +51,11 @@ I speak fluently in **5 languages**: Polish, English, German, Italian and Spanis
   <img src="Assets/Presidential%20Election%20Analysis/Duda%20Nawrocki.png" alt="Marcin Czerkas" width="250"/>
 </p>
 
-**Description:** A data analysis project where I analyse trends and patterns related to the voters' behaviour using Python
+**Description:** Analytical project examining trends and patterns in voter behaviour using publicly available election data
 
 **Tech Stack:** Python (Pandas, Matplotlib)
 
-**Skills:** statistical analysis
+**Skills:** exploratory and statistical analysis, data interpretation
 
 ---
 
@@ -66,11 +65,11 @@ I speak fluently in **5 languages**: Polish, English, German, Italian and Spanis
   <img src="Assets/ME%20SBG/ME%20SBG%20miniature.png" alt="Marcin Czerkas" width="250"/>
 </p>
 
-**Description:** Power BI dashboard based on PostgreSQL database designed and created from scratch
+**Description:** Power BI dashboard built on a PostgreSQL database designed and implemented from scratch
 
 **Tech Stack:** SQL (PostgreSQL), Power BI, Power Query M, DAX
 
-**Skills:** data architecture, data visualization
+**Skills:** data architecture, relational modeling, data visualization
 
 *(More projects coming — stay tuned!)*
 
@@ -84,7 +83,7 @@ I speak fluently in **5 languages**: Polish, English, German, Italian and Spanis
 
 # 🎯 What’s next
 
-I’m continuously improving both my technical (currently, the biggest focus on **Python** and **SQL**) and soft skills ([Non-violent Communication](https://www.cnvc.org/)), building analytical projects based on real-world datasets, and sharing my learning journey online.
+I continuously develop both my **technical skills** (with a strong current focus on **Python** and **SQL**) and **soft skills** (including [Non-violent Communication](https://www.cnvc.org/)), building analytical projects based on real-world datasets, and sharing my work and learnings openly.
 
 ---
 

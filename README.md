@@ -27,7 +27,7 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 
 **Description:** End-to-end BI solution focused on monitoring car fleet performance and risk exposure in a leasing environment
 
-**Tech Stack:** SQL (Oracle), Power BI, Power Query M, DAX, Python
+**Tech Stack:** SQL, Power BI, Power Query M, DAX, Python
 
 **Skills:** data wrangling and transformation, data visualization, business and risk analysis
 

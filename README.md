@@ -10,7 +10,7 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 
 # 🧠 What I work with
 
-* **Languages & Tools:** SQL (PostgreSQL, Oracle), Python, Excel, Power BI, Power Query M, DAX
+* **Languages & Tools:** SQL (PostgreSQL, SQL Server), Python, Excel, Power BI, Power Query M, DAX
 * **Data Workflow:** cleaning, transformation, data modeling, visualization, dashboard development and maintenance
 * **Focus Areas:** reporting and process automation, business analysis, decision-support analytics
 
@@ -23,6 +23,8 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
   <img src="Assets/Fleet%20Monitoring/Dashboard%20demo.gif" alt="Marcin Czerkas" width="250"/>
 </p>
 
+> Q2 2025
+
 **Description:** End-to-end BI solution focused on monitoring car fleet performance and risk exposure in a leasing environment
 
 **Tech Stack:** SQL (Oracle), Power BI, Power Query M, DAX, Python
@@ -32,6 +34,8 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 ---
 
 ### 🔗 [Real Estate Market Analysis](https://github.com/MarcinCzerkas/Real-Estate-Market-Analysis)
+
+> Q1 2025
 
 <p align="left">
   <img src="Assets/Real%20Estate/Real%20Estate%20Dashboard.jpg" alt="Marcin Czerkas" width="250"/>
@@ -47,6 +51,8 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 
 ### 🔗 [Polish Presidential Election 2025 Analysis](https://github.com/MarcinCzerkas/Project-Polish-Presidential-Election-2025)
 
+> Q2 2025
+
 <p align="left">
   <img src="Assets/Presidential%20Election%20Analysis/Duda%20Nawrocki.png" alt="Marcin Czerkas" width="250"/>
 </p>
@@ -60,6 +66,8 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 ---
 
 ### 🔗 [Middle-earth SBG Interactive Dashboard](https://github.com/MarcinCzerkas/Project-Middle-earth-SBG)
+
+> Q4 2024
 
 <p align="left">
   <img src="Assets/ME%20SBG/ME%20SBG%20miniature.png" alt="Marcin Czerkas" width="250"/>

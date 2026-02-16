@@ -19,11 +19,11 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 
 ### 🔗 [Fleet Monitoring Dashboard](https://github.com/MarcinCzerkas/Fleet-Monitoring-Dashboard)
 
+> Q2 2025
+
 <p align="left">
   <img src="Assets/Fleet%20Monitoring/Dashboard%20demo.gif" alt="Marcin Czerkas" width="250"/>
 </p>
-
-> Q2 2025
 
 **Description:** End-to-end BI solution focused on monitoring car fleet performance and risk exposure in a leasing environment
 

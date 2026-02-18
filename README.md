@@ -18,15 +18,22 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 
 I created this repository to showcase all my data projects in one place. This includes:
 
-- **2 professional projects**: I share a snippet of what I do at my work
-- **1 client project**: something I did as a freelance analyst for external clients
-- **4 personal projects**: I worked on them outside my working hours — for learning pursposes, to showcase my skills or simply for fun
+- **2 professional projects** 💼 — I share a snippet of what I do at my work
+- **1 client project** 📑 — something I did as a freelance analyst for external clients
+- **4 personal projects** 💻 — I worked on them outside my working hours — for learning pursposes, to showcase my skills or simply for fun
 
----
+## ⭐ Recommended
+
+If you are interested in:
+
+- what is the **real business value of my projects** and how I approach an data project at my current workplace, including taking an end-to-end ownership, check out [Fleet Monitoring Dashboard](Fleet-Monitoring-Dashboard)
+- what are my dimensional data modeling techniques as well as adaptaion capabilities to a new business domain, check out [Hotel Bookings Demo](Hotel-Bookings-Demo)
+
+## 📂 All projects (chronologically)
 
 ### 🔗 [Hotel Bookings Demo](https://github.com/MarcinCzerkas/Data-Modeling-Viz-Showcase)
 
-> Q1 2026
+> Q1 2026 | personal project 💻
 
 <p align="left">
   <img src="Assets/Hotel%20Bookings/Hotel%20Bookings.png" alt="Marcin Czerkas" width="250"/>
@@ -36,13 +43,13 @@ I created this repository to showcase all my data projects in one place. This in
 
 **Tech Stack:** Power BI, Power Query M, DAX
 
-**Skills:** ETL, data modeling and transformation, data visualization
+**Skills:** ETL, dimensional data modeling, data visualization
 
 ---
 
 ### 🔗 [Fleet Monitoring Dashboard](https://github.com/MarcinCzerkas/Fleet-Monitoring-Dashboard)
 
-> Q2 2025
+> Q2 2025 | **professional project** 💼
 
 <p align="left">
   <img src="Assets/Fleet%20Monitoring/Dashboard%20demo.gif" alt="Marcin Czerkas" width="250"/>
@@ -58,7 +65,7 @@ I created this repository to showcase all my data projects in one place. This in
 
 ### 🔗 [Polish Presidential Election 2025 Analysis](https://github.com/MarcinCzerkas/Project-Polish-Presidential-Election-2025)
 
-> Q2 2025
+> Q2 2025 | personal project 💻
 
 <p align="left">
   <img src="Assets/Presidential%20Election%20Analysis/Duda%20Nawrocki.png" alt="Marcin Czerkas" width="250"/>
@@ -74,7 +81,7 @@ I created this repository to showcase all my data projects in one place. This in
 
 ### 🔗 [BI Enhancement and Automation](https://github.com/MarcinCzerkas/BI-Enhancement-and-Automation-Project)
 
-> Q2 2025
+> Q2 2025 | **client project** 📑
 
 <p align="left">
   <img src="Assets/BI%20Enhancement/BI%20Enhancement%20and%20Automation.png" alt="Marcin Czerkas" width="250"/>
@@ -90,7 +97,7 @@ I created this repository to showcase all my data projects in one place. This in
 
 ### 🔗 [Real Estate Market Analysis](https://github.com/MarcinCzerkas/Real-Estate-Market-Analysis)
 
-> Q1 2025
+> Q1 2025 | personal project 💻
 
 <p align="left">
   <img src="Assets/Real%20Estate/Real%20Estate%20Dashboard.jpg" alt="Marcin Czerkas" width="250"/>
@@ -106,7 +113,7 @@ I created this repository to showcase all my data projects in one place. This in
 
 ### 🔗 [Middle-earth SBG Interactive Dashboard](https://github.com/MarcinCzerkas/Project-Middle-earth-SBG)
 
-> Q4 2024
+> Q4 2024 | personal project 💻
 
 <p align="left">
   <img src="Assets/ME%20SBG/ME%20SBG%20miniature.png" alt="Marcin Czerkas" width="250"/>
@@ -122,7 +129,7 @@ I created this repository to showcase all my data projects in one place. This in
 
 ### 🔗 [Weekly reports automation](https://github.com/MarcinCzerkas/Weekly-reports-automation)
 
-> Q2 2024
+> Q2 2024 | professional project 💼
 
 <p align="left">
   <img src="Assets/VBA%20Outlook/VBA%20Outlook.png" alt="Marcin Czerkas" width="250"/>

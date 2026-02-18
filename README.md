@@ -17,6 +17,14 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 
 # 📊 Featured Projects
 
+I created this repository to showcase all my data projects in one place. This includes:
+
+- 2 professional projects - I share a snippet of what I do at my work
+- 1 client project - something I did as a freelance analyst for external clients
+- 4 personal projects - I worked on them outside my working hours — for learning pursposes, to showcase my skills or simply for fun
+
+---
+
 ### 🔗 [Fleet Monitoring Dashboard](https://github.com/MarcinCzerkas/Fleet-Monitoring-Dashboard)
 
 > Q2 2025
@@ -91,7 +99,7 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 
 # 🎯 What’s next
 
-I continuously develop both my **technical skills** (with a strong current focus on **Python** and **SQL**) and **soft skills** (including [Non-violent Communication](https://www.cnvc.org/)), building analytical projects based on real-world datasets, and sharing my work and learnings openly.
+I continuously develop both my **technical skills** (with a strong current focus on **SQL**, **Python** as well as **data warehousing and dimensional data modeling**) and **soft skills** (including [Non-violent Communication](https://www.cnvc.org/)), building analytical projects based on real-world datasets, and sharing my work and learnings openly.
 
 ---
 

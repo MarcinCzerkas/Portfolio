@@ -2,7 +2,7 @@
 
 I’m a **data professional** focused on turning raw information into clear insights and practical business solutions. I work hands-on with data since 2023 — from cleaning and modeling to visualization and automation — always with a strong emphasis on real-world decision-making.
 
-💼 I currently work as a **Quantitative Expert** in the **Risk Department** of a car leasing company, where I analyze data to identify early warning signals, validate analytical models, and support actions that help protect the business from financial risk.
+💼 I currently work as a **Quantitative Expert** in the **Risk Department** of a car leasing company, where I analyze data to identify early warning signals, validate analytical models, and support actions that help protect the business from financial risk. Apart from this, I collaborate with clients on freelance data projects.
 
 My background combines **analytics**, **business** and **risk**, supported by strong technical skills in Power BI, SQL, Python, and Excel, and experience working with stakeholders across different functions.
 
@@ -26,7 +26,7 @@ I created this repository to showcase all my data projects in one place. This in
 
 If you are interested in:
 
-- what is the **real business value of my projects** and how I approach an data project at my current workplace, including taking an end-to-end ownership, check out [Fleet Monitoring Dashboard](Fleet-Monitoring-Dashboard)
+- what is the **real business value of my projects** and how I approach a data project at my current workplace, including taking an end-to-end ownership, check out [Fleet Monitoring Dashboard](Fleet-Monitoring-Dashboard)
 - what are my dimensional data modeling techniques as well as adaptaion capabilities to a new business domain, check out [Hotel Bookings Demo](Hotel-Bookings-Demo)
 
 ## 📂 All projects (chronologically)
@@ -157,7 +157,7 @@ If you are interested in:
 
 # 🎯 What’s next
 
-I continuously develop both my **technical skills** (with a strong current focus on **SQL**, **Python** as well as **data warehousing and dimensional data modeling**) and **soft skills** (including [Non-violent Communication](https://www.cnvc.org/)), building analytical projects based on real-world datasets, and sharing my work and learnings openly.
+I continuously develop both my **technical skills** (with a strong current focus on **SQL**, **Python** as well as **data warehousing and dimensional data modeling**) and **soft skills** (including [Non-violent Communication](https://www.cnvc.org/)), building analytical projects and sharing my work and learnings openly.
 
 ---
 

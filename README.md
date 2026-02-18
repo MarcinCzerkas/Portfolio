@@ -19,9 +19,9 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 
 I created this repository to showcase all my data projects in one place. This includes:
 
-- 2 professional projects - I share a snippet of what I do at my work
-- 1 client project - something I did as a freelance analyst for external clients
-- 4 personal projects - I worked on them outside my working hours — for learning pursposes, to showcase my skills or simply for fun
+- **2 professional projects**: I share a snippet of what I do at my work
+- **1 client project**: something I did as a freelance analyst for external clients
+- **4 personal projects**: I worked on them outside my working hours — for learning pursposes, to showcase my skills or simply for fun
 
 ---
 

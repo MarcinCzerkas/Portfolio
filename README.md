@@ -14,7 +14,6 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 * **Data Workflow:** cleaning, transformation, data modeling, visualization, dashboard development and maintenance
 * **Focus Areas:** reporting and process automation, business analysis, decision-support analytics
 
-
 # 📊 Featured Projects
 
 I created this repository to showcase all my data projects in one place. This includes:
@@ -22,6 +21,22 @@ I created this repository to showcase all my data projects in one place. This in
 - **2 professional projects**: I share a snippet of what I do at my work
 - **1 client project**: something I did as a freelance analyst for external clients
 - **4 personal projects**: I worked on them outside my working hours — for learning pursposes, to showcase my skills or simply for fun
+
+---
+
+### 🔗 [Hotel Bookings Demo](https://github.com/MarcinCzerkas/Data-Modeling-Viz-Showcase)
+
+> Q1 2026
+
+<p align="left">
+  <img src="Assets/Hotel%20Bookings/Hotel%20Bookings.png" alt="Marcin Czerkas" width="250"/>
+</p>
+
+**Description:** Transparent example of my approach towards data modeling and cleaning as well as adaptaion to a new business domain 
+
+**Tech Stack:** Power BI, Power Query M, DAX
+
+**Skills:** ETL, data modeling and transformation, data visualization
 
 ---
 
@@ -41,22 +56,6 @@ I created this repository to showcase all my data projects in one place. This in
 
 ---
 
-### 🔗 [Real Estate Market Analysis](https://github.com/MarcinCzerkas/Real-Estate-Market-Analysis)
-
-> Q1 2025
-
-<p align="left">
-  <img src="Assets/Real%20Estate/Real%20Estate%20Dashboard.jpg" alt="Marcin Czerkas" width="250"/>
-</p>
-
-**Description:** Data analytics project built to support comparison and analysis of real estate offers in Warsaw and neighbouring counties
-
-**Tech Stack:** Power BI, VBA, Power Query M, DAX, Excel
-
-**Skills:** web scraping, data preparation, exploratory analysis, visualization
-
----
-
 ### 🔗 [Polish Presidential Election 2025 Analysis](https://github.com/MarcinCzerkas/Project-Polish-Presidential-Election-2025)
 
 > Q2 2025
@@ -70,6 +69,38 @@ I created this repository to showcase all my data projects in one place. This in
 **Tech Stack:** Python (Pandas, Matplotlib)
 
 **Skills:** exploratory and statistical analysis, data interpretation
+
+---
+
+### 🔗 [BI Enhancement and Automation](https://github.com/MarcinCzerkas/BI-Enhancement-and-Automation-Project)
+
+> Q2 2025
+
+<p align="left">
+  <img src="Assets/BI%20Enhancement/BI%20Enhancement%20and%20Automation.png" alt="Marcin Czerkas" width="250"/>
+</p>
+
+**Description:** Dashboard built for a client (freelance) for business reporting and process automation
+
+**Tech Stack:** DAX, Power Query M, Excel (Power Pivot)
+
+**Skills:** data modeling, cleaning and visualization, process automation
+
+---
+
+### 🔗 [Real Estate Market Analysis](https://github.com/MarcinCzerkas/Real-Estate-Market-Analysis)
+
+> Q1 2025
+
+<p align="left">
+  <img src="Assets/Real%20Estate/Real%20Estate%20Dashboard.jpg" alt="Marcin Czerkas" width="250"/>
+</p>
+
+**Description:** Data analytics project built to support comparison and analysis of real estate offers in Warsaw and neighbouring counties
+
+**Tech Stack:** Power BI, VBA, Power Query M, DAX, Excel
+
+**Skills:** web scraping, data preparation, exploratory analysis, visualization
 
 ---
 
@@ -87,7 +118,27 @@ I created this repository to showcase all my data projects in one place. This in
 
 **Skills:** data architecture, relational modeling, data visualization
 
-*(More projects coming — stay tuned!)*
+---
+
+### 🔗 [Weekly reports automation](https://github.com/MarcinCzerkas/Weekly-reports-automation)
+
+> Q2 2024
+
+<p align="left">
+  <img src="Assets/VBA%20Outlook/VBA%20Outlook.png" alt="Marcin Czerkas" width="250"/>
+</p>
+
+**Description:** Automation built in Power Query for data preparation and VBA for orchestration and email distribution
+
+**Tech Stack:** VBA, Power Query M, Excel, Outlook
+
+**Skills:** automation, data cleaning
+
+---
+
+*See also my [Power Query M Code repository](https://github.com/MarcinCzerkas/Power-Query) for useful complex Power Query functions I created and reuse for ETL and data cleaning purposes.*
+
+*More projects coming — stay tuned!*
 
 
 # 🌐 Find me online

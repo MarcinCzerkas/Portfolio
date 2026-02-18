@@ -10,7 +10,7 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 
 # 🧠 What I work with
 
-* **Languages & Tools:** SQL (PostgreSQL, SQL Server), Python, Excel, Power BI, Power Query M, DAX
+* **Languages & Tools:** SQL (PostgreSQL, SQL Server), Python (Pandas, Requests, Matplotlib), Excel, Power BI, Power Query M, DAX, VBA
 * **Data Workflow:** cleaning, transformation, data modeling, visualization, dashboard development and maintenance
 * **Focus Areas:** reporting and process automation, business analysis, decision-support analytics
 

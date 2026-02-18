@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Marcin Czerkas
 
-I’m a **data professional** focused on turning raw information into clear insights and practical business solutions. I work hands-on with data — from cleaning and modeling to visualization and automation — always with a strong emphasis on real-world decision-making.
+I’m a **data professional** focused on turning raw information into clear insights and practical business solutions. I work hands-on with data since 2023 — from cleaning and modeling to visualization and automation — always with a strong emphasis on real-world decision-making.
 
 💼 I currently work as a **Quantitative Expert** in the **Risk Department** of a car leasing company, where I analyze data to identify early warning signals, validate analytical models, and support actions that help protect the business from financial risk.
 
-My background combines **business**, **risk**, and **analytics**, supported by strong technical skills in Power BI, SQL, Python, and Excel, and experience working with stakeholders across different functions.
+My background combines **analytics**, **business** and **risk**, supported by strong technical skills in Power BI, SQL, Python, and Excel, and experience working with stakeholders across different functions.
 
 I am fluent in **five languages**: Polish, English, German, Italian, and Spanish.
 

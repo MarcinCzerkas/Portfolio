@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcin Czerkas
 
-I’m a **data professional** focused on turning raw information into clear insights and practical business solutions. I work hands-on with data since 2023 — from cleaning and modeling to visualization and automation — always with a strong emphasis on real-world decision-making.
+I’m a **data professional** focused on turning raw information into clear insights and practical business solutions. I work hands-on with data since 2023 - from cleaning and modeling to visualization and automation - always with a strong emphasis on real-world decision-making.
 
 💼 I currently work as a **Quantitative Expert** in the **Risk Department** of a car leasing company, where I analyze data to identify early warning signals, validate analytical models, and support actions that help protect the business from financial risk. Apart from this, I collaborate with clients on freelance data projects.
 
@@ -18,9 +18,9 @@ I am fluent in **five languages**: Polish, English, German, Italian, and Spanish
 
 I created this repository to showcase all my data projects in one place. This includes:
 
-- **2 professional projects** 💼 — I share a snippet of what I do at my work
-- **1 client project** 📑 — something I did as a freelance analyst for external clients
-- **4 personal projects** 💻 — I worked on them outside my working hours — for learning pursposes, to showcase my skills or simply for fun
+- **2 professional projects** 💼 - I share a snippet of what I do at my work
+- **1 client project** 📑 - something I did as a freelance analyst for external clients
+- **4 personal projects** 💻 - I worked on them outside my working hours - for learning pursposes, to showcase my skills or simply for fun
 
 ## ⭐ Recommended
 
@@ -161,6 +161,6 @@ I continuously develop both my **technical skills** (with a strong current focus
 
 ---
 
-*Thanks for visiting my portfolio!* 🚀
+*Thanks for visiting my portfolio!*
 
 *Marcin*

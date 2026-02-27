@@ -26,8 +26,8 @@ I created this repository to showcase all my data projects in one place. This in
 
 If you are interested in:
 
-- what is the **real business value of my projects** and how I approach a data project at my current workplace, including taking an end-to-end ownership, check out [Fleet Monitoring Dashboard](Fleet-Monitoring-Dashboard)
-- what are my dimensional data modeling techniques as well as adaptaion capabilities to a new business domain, check out [Hotel Bookings Demo](Hotel-Bookings-Demo)
+- what is the **real business value of my projects** and how I approach a data project at my current workplace, including taking an end-to-end ownership, check out [Fleet Monitoring Dashboard](https://github.com/MarcinCzerkas/Fleet-Monitoring-Dashboard)
+- what are my dimensional data modeling techniques as well as adaptaion capabilities to a new business domain, check out [Hotel Bookings Demo](https://github.com/MarcinCzerkas/Data-Modeling-Viz-Showcase)
 
 ## 📂 All projects (chronologically)
 

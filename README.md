@@ -8,7 +8,7 @@ My background combines **analytics**, **business** and **risk**, supported by st
 
 I am fluent in **five languages**: Polish, English, German, Italian, and Spanish.
 
-# 🧠 What I work with
+# 🛠️ What I work with
 
 * **Languages & Tools:** SQL (PostgreSQL, SQL Server), Python (Pandas, Requests, Matplotlib), Excel, Power BI, Power Query M, DAX, VBA
 * **Data Workflow:** cleaning, transformation, data modeling, visualization, dashboard development and maintenance
@@ -20,7 +20,7 @@ I created this repository to showcase all my data projects in one place. This in
 
 - **2 professional projects** 💼 - I share a snippet of what I do at my work
 - **1 client project** 📑 - something I did as a freelance analyst for external clients
-- **4 personal projects** 💻 - I worked on them outside my working hours - for learning pursposes, to showcase my skills or simply for fun
+- **5 personal projects** 💻 - I worked on them outside my working hours - for learning pursposes, to showcase my skills or simply for fun
 
 ## ⭐ Recommended
 

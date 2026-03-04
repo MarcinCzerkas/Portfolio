@@ -28,8 +28,25 @@ If you are interested in:
 
 - what is the **real business value of my projects** and how I approach a data project at my current workplace, including taking an end-to-end ownership, check out [Fleet Monitoring Dashboard](https://github.com/MarcinCzerkas/Fleet-Monitoring-Dashboard)
 - what are my dimensional data modeling techniques as well as adaptaion capabilities to a new business domain, check out [Hotel Bookings Demo](https://github.com/MarcinCzerkas/Data-Modeling-Viz-Showcase)
+- how did I set up a data warehouse, check out [Data Warehouse Project](https://github.com/MarcinCzerkas/Kimball-Style-Job-Postings-Data-Warehouse--PostgreSQL-)
 
 ## 📂 All projects (chronologically)
+
+### 🔗 [Kimball-Style Data Warehouse Build](https://github.com/MarcinCzerkas/Kimball-Style-Job-Postings-Data-Warehouse--PostgreSQL-)
+
+> Q1 2026 | personal project 💻
+
+<p align="left">
+  <img src="Assets/Data_Warehouse/ERD-DW.png" alt="Marcin Czerkas" width="250"/>
+</p>
+
+**Description:** A learning project that bridges the gap between data analysis and data engineering.
+
+**Tech Stack:** SQL (PostgreSQL)
+
+**Skills:** ETL, dimensional data modeling, Kimball architecture
+
+---
 
 ### 🔗 [Hotel Bookings Demo](https://github.com/MarcinCzerkas/Data-Modeling-Viz-Showcase)
 

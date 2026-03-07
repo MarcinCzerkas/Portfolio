@@ -181,3 +181,5 @@ I continuously develop both my **technical skills** (with a strong current focus
 *Thanks for visiting my portfolio!*
 
 *Marcin*
+
+![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&base=888)

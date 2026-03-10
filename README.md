@@ -20,17 +20,33 @@ I created this repository to showcase all my data projects in one place. This in
 
 - **2 professional projects** 💼 - I share a snippet of what I do at my work
 - **1 client project** 📑 - something I did as a freelance analyst for external clients
-- **5 personal projects** 💻 - I worked on them outside my working hours - for learning pursposes, to showcase my skills or simply for fun
+- **6 personal projects** 💻 - I worked on them outside my working hours - for learning pursposes, to showcase my skills or simply for fun
 
 ## ⭐ Recommended
 
 If you are interested in:
 
 - what is the **real business value of my projects** and how I approach a data project at my current workplace, including taking an end-to-end ownership, check out [Fleet Monitoring Dashboard](https://github.com/MarcinCzerkas/Fleet-Monitoring-Dashboard)
-- what are my dimensional data modeling techniques as well as adaptaion capabilities to a new business domain, check out [Hotel Bookings Demo](https://github.com/MarcinCzerkas/Data-Modeling-Viz-Showcase)
+- how I created **my own Power BI Theme Generator**, check out [Power BI Theme Generator](https://github.com/MarcinCzerkas/Power-BI-Theme-Generator-by-Marcin-Czerkas)
 - how did I set up a data warehouse, check out [Data Warehouse Project](https://github.com/MarcinCzerkas/Kimball-Style-Job-Postings-Data-Warehouse--PostgreSQL-)
 
 ## 📂 All projects (chronologically)
+
+### 🔗 [Power BI Theme Generator](https://github.com/MarcinCzerkas/Power-BI-Theme-Generator-by-Marcin-Czerkas)
+
+> Q1 2026 | personal project 💻
+
+<p align="left">
+  <img src="Assets/PBI_Theme_Generator/Sample_dark.png" alt="Marcin Czerkas" width="250"/>
+</p>
+
+**Description:** A tool enabling generation of custom Power BI JSON themes using Python.
+
+**Tech Stack:** Python, JSON, Power BI, Excel
+
+**Skills:** automation, data visualization, UX
+
+---
 
 ### 🔗 [Kimball-Style Data Warehouse Build](https://github.com/MarcinCzerkas/Kimball-Style-Job-Postings-Data-Warehouse--PostgreSQL-)
 

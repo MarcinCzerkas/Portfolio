@@ -182,6 +182,4 @@ I continuously develop both my **technical skills** (with a strong current focus
 
 *Marcin*
 
----
-
-![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&label=VIEWS&style=pixel)

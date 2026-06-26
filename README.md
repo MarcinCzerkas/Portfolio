@@ -1,3 +1,5 @@
+![Banner](/Assets/B9EB645C-3890-4DB8-8793-6696C0542960.png)
+
 # 👋 Hi, I'm Marcin Czerkas
 
 I’m a **data professional** focused on turning raw information into clear insights and practical business solutions. I work hands-on with data since 2023 - from cleaning and modeling to visualization and automation - always with a strong emphasis on real-world decision-making.
